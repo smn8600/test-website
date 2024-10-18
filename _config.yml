@@ -34,8 +34,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-dbaseurl: /test-website
-url: https://smn8600.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.
